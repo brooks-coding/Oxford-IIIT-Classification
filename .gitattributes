@@ -1,2 +1,0 @@
-pytorch_Oxford_IIIT_ResNet34.pth filter=lfs diff=lfs merge=lfs -text
-*.pth filter=lfs diff=lfs merge=lfs -text
