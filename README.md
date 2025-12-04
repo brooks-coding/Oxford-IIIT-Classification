@@ -15,8 +15,8 @@ Python project on utilizing transfer learning for classification.
 
 ### Results (highlights)
 - Minimal training time/compute.
-- Model accuracy 89%.
-- Custom image 100% predictive success.
+- Cross-validated model accuracy of 89%.
+- Derived valuable insights from custom images.
 
 ### How to Run
 1) Run `pytorch_oxford_iiit_pet_dataset_computer_vision.ipynb`.
